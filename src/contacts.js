@@ -7,7 +7,7 @@ const contacts = [
     email: "sai@pallavi.com"
   },
   {
-    name: "Parvathi Menon",
+    name: "Parvathi ",
     imgURL:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQYlhTs1Ze8zd8u8KCmDvXPzlSkR7dpxhi5_A&usqp=CAU",
     phone: "457992565",
